@@ -35,7 +35,9 @@ Y la paleta de colores también se puede personalizar desde aquí:
 ```
 
 ##Funcionamiento
+
 Aquí puedes ver cómo luce el diseño :)
+
 [Sitio Freelancer](https://neon-kleicha-13e7a5.netlify.app/)
 
 ## Tecnologías

@@ -34,7 +34,7 @@ Y la paleta de colores también se puede personalizar desde aquí:
 }
 ```
 
-##Funcionamiento
+## Funcionamiento
 
 Aquí puedes ver cómo luce el diseño :)
 
